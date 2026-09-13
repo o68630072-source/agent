@@ -7,8 +7,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
+    "ip": "knox_biuu.aternos.me",
+    "port": 57682,
     "version": "1.21.1"
   },
   "position": {
